@@ -1,0 +1,2 @@
+# ScreenSlider
+Simple JS slider
